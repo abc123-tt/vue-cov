@@ -34,32 +34,5 @@ vue-cli + vue-router + vuex + axios + element-ui + echarts + mock
 
 # 效果展示
 
-![image-20230402000318770](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/img/image-20230402000318770.png)
+![image-20230402002602263](https://cdn.jsdelivr.net/gh/abc123-tt/vue-cov@master/img/image-20230402002602263.png)
 
-
-
-![image-20230402000341794](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/img/image-20230402000341794.png)
-
-
-
-![image-20230402000350961](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/img/image-20230402000350961.png)
-
-
-
-![image-20230402000400485](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/img/image-20230402000400485.png)
-
-
-
-![image-20230402000407525](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/img/image-20230402000407525.png)
-
-
-
-![image-20230402000424261](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/img/image-20230402000424261.png)
-
-
-
-![image-20230402000436665](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/img/image-20230402000436665.png)
-
-
-
-![image-20230402000450410](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/img/image-20230402000450410.png)
