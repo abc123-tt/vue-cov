@@ -36,3 +36,23 @@ vue-cli + vue-router + vuex + axios + element-ui + echarts + mock
 
 ![image-20230402002602263](https://cdn.jsdelivr.net/gh/abc123-tt/vue-cov@master/img/image-20230402002602263.png)
 
+
+
+![image-20230402002825342](https://cdn.jsdelivr.net/gh/abc123-tt/vue-cov@master/img/image-20230402002825342.png)
+
+
+
+![image-20230402002836853](https://cdn.jsdelivr.net/gh/abc123-tt/vue-cov@master/img/image-20230402002836853.png)
+
+
+
+![image-20230402002847887](https://cdn.jsdelivr.net/gh/abc123-tt/vue-cov@master/img/image-20230402002847887.png)
+
+
+
+![image-20230402002904686](C:\Users\w5749\AppData\Roaming\Typora\typora-user-images\image-20230402002904686.png)
+
+
+
+![image-20230402002933310](https://cdn.jsdelivr.net/gh/abc123-tt/vue-cov@master/img/image-20230402002933310.png)
+
