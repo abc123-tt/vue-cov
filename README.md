@@ -50,7 +50,7 @@ vue-cli + vue-router + vuex + axios + element-ui + echarts + mock
 
 
 
-![image-20230402002904686](C:\Users\w5749\AppData\Roaming\Typora\typora-user-images\image-20230402002904686.png)
+![image-20230402003331723](https://cdn.jsdelivr.net/gh/abc123-tt/vue-cov@master/img/image-20230402003331723.png)
 
 
 
